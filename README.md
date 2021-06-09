@@ -9,4 +9,4 @@ gcc -std=c11 -Wall -o maze maze.c -lSDL2 -lSDL2_image -lm
 ## Run command:
 ./maze
 
-![](https://github.com/valispartanu/Maze/blob/master/maze.jpg?raw=true)
+![](https://github.com/valispartanu/Maze/blob/master/maze.png?raw=true)
